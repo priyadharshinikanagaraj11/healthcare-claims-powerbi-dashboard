@@ -56,8 +56,4 @@ The dashboard contains 5 pages:
 - `enhanced_health_insurance_claims.pbix` — Power BI project file
 - `overview.png`, `denial-analysis.png`, `demographics.png`, `provider-view.png`, `executive-summary.png` — Dashboard page screenshots
 
----
 
-## Live Dashboard
-
-*(Add Power BI Public "Publish to Web" link here once published)*
