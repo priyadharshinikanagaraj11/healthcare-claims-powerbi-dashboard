@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing healthcare insurance claims data —
 
 **Tools Used:** Power BI Desktop, DAX, Power Query
 
-**Author:** Priyadharshini Kanagaraj | [LinkedIn](#) | [GitHub](https://github.com/priyadharshinikanagaraj11)
+**Author:** Priyadharshini Kanagaraj | [LinkedIn](https://www.linkedin.com/in/priyadharshini-kanagaraj-) | [GitHub](https://github.com/priyadharshinikanagaraj11)
 
 ---
 
@@ -34,11 +34,11 @@ The dashboard contains 5 pages:
 
 *(Add screenshots here — see `/images` folder)*
 
-![Overview](images/overview.png)
-![Denial Analysis](images/denial-analysis.png)
-![Demographics](images/demographics.png)
-![Provider View](images/provider-view.png)
-![Executive Summary](images/executive-summary.png)
+![Overview](overview.png)
+![Denial Analysis](denial-analysis.png)
+![Demographics](demographics.png)
+![Provider View](provider-view.png)
+![Executive Summary](executive-summary.png)
 
 ---
 
@@ -53,8 +53,8 @@ The dashboard contains 5 pages:
 
 ## Files
 
-- `Healthcare-Claims-Dashboard.pbix` — Power BI project file
-- `/images` — Dashboard page screenshots
+- `enhanced_health_insurance_claims.pbix` — Power BI project file
+- `overview.png`, `denial-analysis.png`, `demographics.png`, `provider-view.png`, `executive-summary.png` — Dashboard page screenshots
 
 ---
 
